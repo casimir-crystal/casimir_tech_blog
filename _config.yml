@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "Casimir's Tech Blog"
-subtitle: '这里是我的小博客，欢迎！'
-description: '记录，是总结知识的方法，也是学习的过程。'
+title: "Casimir's TechBlog"
+subtitle: '这里是我的技术博客哦。欢迎！'
+description: '习惯记录是总结知识的方法。'
 keywords: 
 author: 'Casimir Crystal'
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 6m7wdv.coding-pages.com
+url: https://casimir-crystal.tech
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

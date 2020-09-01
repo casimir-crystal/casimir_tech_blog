@@ -1,6 +1,7 @@
 ---
 title: Python怎样重新定义字典赋值时的行为
 date: 2020-08-24 09:36:49
+categories: 技术
 tags: 
 - Python
 - 技术总结

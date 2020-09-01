@@ -119,7 +119,7 @@ menu:
   home: / || fa fa-home
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
-  #categories: /categories/ || fa fa-th
+  categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
@@ -411,7 +411,7 @@ font:
   enable: true
 
   # Uri of fonts host, e.g. https://fonts.googleapis.com (Default).
-  host: #//fonts.googleapis.com
+  host: //fonts.googleapis.com
 
   # Font options:
   # `external: true` will load this font family from `host` above.
@@ -428,13 +428,11 @@ font:
   title:
     external: true
     family:
-    size: 0.8
 
   # Font settings for headlines (<h1> to <h6>).
   headings:
     external: true
     family:
-    size: 0.9
 
   # Font settings for posts (.post-body).
   posts:

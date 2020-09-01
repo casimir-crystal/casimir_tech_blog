@@ -1,6 +1,7 @@
 ---
 title: Useful keyboard shortcuts for VSCode
 date: 2020-08-28 00:17:49
+categories: 技术
 tags:
 - VSCode
 - 编程工具
