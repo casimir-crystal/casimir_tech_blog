@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "Casimir's TechBlog"
+title: "Casimir's Tech Blog"
 subtitle: '这里是我的技术博客哦。欢迎！'
 description: '习惯记录是总结知识的方法。'
 keywords: 
@@ -107,6 +107,7 @@ deploy:
   type: git
   repo:
     coding: git@e.coding.net:casimir-crystal/casimir-crystal/casimir-crystal.git
+    gitee: git@gitee.com:casimir-crystal/casimir-crystal.git
   branch: master
 
 markdown_it_plus:
