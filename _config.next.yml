@@ -222,7 +222,7 @@ chat:
   enable: true
   service: chatra
   #service: tidio
-  icon: fa fa-comment # Icon name in Font Awesome, set false to disable icon.
+  icon: false #fa fa-comment # Icon name in Font Awesome, set false to disable icon.
   text: 来和我聊天吧！ # Button text, change it as you wish.
 
 
